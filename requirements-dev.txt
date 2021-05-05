@@ -6,7 +6,7 @@ pyflakes==2.2.0
 # Dependências do PyTest
 py==1.9.0
 pluggy==0.13.1
-pytest==6.1.2
+pytest==6.2.4
 toml==0.10.2
 atomicwrites==1.4.0
 attrs==20.3.0
